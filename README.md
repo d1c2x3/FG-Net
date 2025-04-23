@@ -5,9 +5,6 @@ High-quality coronary artery segmentation via fuzzy logic modeling coupled with 
 ![coronary artery segmentation performance on the CAS-119 dataset and the
 ASOCA dataset by different methods](figure/SOTA3.png)
 
-**Qualitative Comparison**: comparison of results for two typical cases from the CAS-119 dataset by different methods.
-![sota](figure/SOTA1.png)
-
 **Qualitative Comparison**: comparison of results for two typical cases from the ASOCA dataset by different methods.
 ![sota](figure/SOTA2.png)
 
