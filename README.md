@@ -39,12 +39,12 @@ https://asoca.grand-challenge.org
             └── ...
 
 
-Training
+**Training**
 
-python train.py
+—python train.py—
 
-Testing
+**Testing**
 
-python test.py
+—python test.py—
 
 
